@@ -1,0 +1,63 @@
+.tab-header-background {
+    -fx-background-color: #cc0066;
+
+}
+
+.tab-pane {
+    -fx-background-color: #f2f2f2;
+    -fx-focus-color: #737373;
+    -fx-faint-focus-color: transparent;
+    -fx-text-base-color:  #800000;
+}
+
+.button {
+	-fx-text-base-color: #800000;
+	-fx-focus-color: #737373;
+	-fx-faint-focus-color: transparent;	
+}
+
+
+.tab {
+	-fx-background-color: #f9f2ec;
+	-fx-text-base-color: #800000;
+	-fx-focus-color: transparent;
+	-fx-border-color: transparent;
+	
+}
+
+.tab:selected {
+    -fx-background-color: white;
+    -fx-text-base-color: #00004d;
+    -fx-border-color: transparent;
+}
+
+.text-field:focused {
+	-fx-background-color: #f9f2ec;
+	-fx-border-color: #cccccc;
+	-fx-focus-color: #737373;
+    -fx-faint-focus-color: white;
+    -fx-text-fill: #800000;
+}
+
+.label {
+	-fx-label-padding: 0 50 0 0;
+}
+
+
+
+.text-area {
+  -fx-control-inner-background: #e6e6e6;
+  -fx-text-fill: #cc0066;
+}
+
+.tab3_root.text-field {
+  -fx-border-color: grey;
+  -fx-background-color: transparent;
+}
+
+
+.table-view {
+
+
+}
+
